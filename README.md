@@ -2,6 +2,6 @@
 
 Lived2D models downloaded from `http://bandori.makoo.eu`.
 
-## Framework
+## Table of Contents
 
-This models are based on Live2D Cubism 2 SDK.
+- none
